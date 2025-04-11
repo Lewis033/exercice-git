@@ -1,2 +1,2 @@
 # exercice-git
-Exercice 16.1 
+Exercice 16 (Premier vrai test de Git)
